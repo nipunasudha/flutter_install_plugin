@@ -1,4 +1,4 @@
-name: install_apk_plugin
+name: install_plugin
 description: fork from https://github.com/hui-z/flutter_install_plugin 
 version: 1.0.1
 homepage: https://github.com/panlin-go/flutter_install_plugin 
