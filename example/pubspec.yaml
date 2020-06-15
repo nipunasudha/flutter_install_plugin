@@ -23,7 +23,7 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
-  install_plugin:
+  install_apk_plugin:
     path: ../
 
   permission_handler: ^3.0.0

@@ -1,6 +1,6 @@
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
-import 'package:install_plugin/install_plugin.dart';
+import 'package:install_apk_plugin/install_apk_plugin.dart';
 
 void main() {
   TestWidgetsFlutterBinding.ensureInitialized();

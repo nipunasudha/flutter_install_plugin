@@ -1,8 +1,7 @@
-name: install_plugin
-description: A flutter plugin for install apk for android; and using url to go to app store for iOS.
-version: 2.0.1
-author: akindone <akindone@163.com>
-homepage: https://github.com/hui-z/flutter_install_plugin
+name: install_apk_plugin
+description: fork from https://github.com/hui-z/flutter_install_plugin 
+version: 1.0.1
+homepage: https://github.com/panlin-go/flutter_install_plugin 
 
 environment:
   sdk: ">=2.0.0-dev.68.0 <3.0.0"

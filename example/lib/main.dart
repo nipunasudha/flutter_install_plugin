@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:install_plugin/install_plugin.dart';
+import 'package:install_apk_plugin/install_apk_plugin.dart';
 import 'package:permission_handler/permission_handler.dart';
 
 void main() => runApp(new MyApp());
